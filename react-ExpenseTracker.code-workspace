@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../react-ExpenseTracker"
+		},
+		{
+			"path": "../../react-route"
+		},
+		{
+			"path": "../../routertut"
+		},
+		{
+			"path": "../../preparation"
+		},
+		{
+			"path": "../../preparationJS"
+		},
+		{
+			"path": "../../Interview"
+		},
+		{
+			"path": "../../react-mui-demo"
+		},
+		{
+			"path": "../../tenth"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Interview"
+	}
+}
